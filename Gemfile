@@ -11,4 +11,6 @@ gem "rspec", "~> 3.0"
 
 gem "rubocop", "~> 1.21"
 
-gem "mongoid", "8.1"
+gem "mongoid", "8.1.3"
+
+gem "rails", "~> 7.0"
