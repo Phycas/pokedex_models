@@ -1,0 +1,21 @@
+current directory: /home/phycas/dev/pokedex_models/bundle_config_path/ruby/3.0.0/gems/bson-4.15.0/ext/bson
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/phycas/dev/pokedex_models/bundle_config_path/ruby/3.0.0/gems/bson-4.15.0/ext/bson
+make DESTDIR\= sitearchdir\=./.gem.20231117-62836-cm3hk8 sitelibdir\=./.gem.20231117-62836-cm3hk8 clean
+
+current directory: /home/phycas/dev/pokedex_models/bundle_config_path/ruby/3.0.0/gems/bson-4.15.0/ext/bson
+make DESTDIR\= sitearchdir\=./.gem.20231117-62836-cm3hk8 sitelibdir\=./.gem.20231117-62836-cm3hk8
+compiling bytebuf.c
+compiling endian.c
+compiling init.c
+compiling libbson-utf8.c
+compiling read.c
+compiling util.c
+compiling write.c
+linking shared-object bson_native.so
+
+current directory: /home/phycas/dev/pokedex_models/bundle_config_path/ruby/3.0.0/gems/bson-4.15.0/ext/bson
+make DESTDIR\= sitearchdir\=./.gem.20231117-62836-cm3hk8 sitelibdir\=./.gem.20231117-62836-cm3hk8 install
+/usr/bin/install -c -m 0755 bson_native.so ./.gem.20231117-62836-cm3hk8

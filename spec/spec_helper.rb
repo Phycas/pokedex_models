@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+require 'mongoid'
 require "pokedex_models"
 
 RSpec.configure do |config|
